@@ -14,7 +14,7 @@
 - 8/25 夜行バス　
   - 予約チケット支払い 5,000円
 
-■ToDo
+■ToDo   
 ‐ SC PPT JP/EN 20 Pages 7/24 〆切
 - SC 原稿 JP/EN 6 Pages 7/24 〆切
 
