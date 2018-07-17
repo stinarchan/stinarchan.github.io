@@ -1,5 +1,23 @@
 [Schedule](Schedule.md)
 
+### 2018/07/17 火曜日
+
+■Done
+- 髪をカットした．
+- 閻さん＠書類を郵送した．
+
+◼️Doing
+- SC PPT JP/EN 20 Pages 7/24 〆切
+- SC 原稿 JP/EN 6 Pages 7/24 〆切
+
+◼️ToDo
+- 7/17 19:00 - 21:00 Amazon ズボン 3枚　宅急便・受付
+
+◼️Other
+- モバイルWifi・通信量 170MB/Day 無駄ING
+- 日曜日のみハニーの宅におるという原則を固める
+- 7/19 より Lawson new pos 導入 そこまでどうする？
+
 ### 2018/07/16 月曜日
 
 ■Done
