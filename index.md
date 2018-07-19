@@ -9,7 +9,7 @@
 - TXTをExcelへの記入
 
 ■ToDo
-- 7/20　10:00 奨学金 X 2 申請
+- 7/20 10:00 奨学金 X 2 申請
 - SC PPT JP/EN 20 Pages 7/24 〆切
 - SC 原稿 JP/EN 6 Pages 7/24 〆切
 
