@@ -1,5 +1,23 @@
 [Schedule](Schedule.md)
 
+### 2018/07/19 木曜日
+
+■Done
+- Azure, Watson, Google のAPI試行実験
+
+■Doing
+- TXTをExcelへの記入
+
+■ToDo
+- 7/20　10:00 奨学金 X 2 申請
+- SC PPT JP/EN 20 Pages 7/24 〆切
+- SC 原稿 JP/EN 6 Pages 7/24 〆切
+
+◼️Other
+- モバイルWifi・通信量 170MB/Day 無駄ING
+- 日曜日のみハニーの宅におるという原則を固める
+- 7/19 より Lawson new pos 導入 そこまでどうする？
+
 ### 2018/07/18 水曜日
 
 ◼️Done
