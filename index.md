@@ -1,5 +1,23 @@
 [Schedule](Schedule.md)
 
+### 2018/07/20 金曜日
+
+■Done
+- 7/20 10:00 奨学金 X 2 申請
+- TXTをExcelへの記入
+
+■Doing
+- SC 原稿 JP/EN 6 Pages 7/24 〆切
+
+■ToDo
+- SC PPT JP/EN 20 Pages 7/24 〆切
+- 大規模ソフトウェア論 チームレポート
+
+■Other
+- モバイルWifi・通信量 170MB/Day 無駄ING
+- 日曜日のみハニーの宅におるという原則を固める
+- 7/19 より Lawson new pos 導入 そこまでどうする？
+
 ### 2018/07/19 木曜日
 
 ■Done
