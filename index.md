@@ -1,5 +1,23 @@
 [Schedule](Schedule.md)
 
+### 2018/07/22 日曜日
+
+◼️Done
+- なし
+
+◼️Doing
+- SC 発表内容方向の明確
+- SC 原稿 JP/EN 6 Pages 7/24 〆切
+
+◼️ToDo
+- SC PPT JP/EN 20 Pages 7/24 〆切
+- 大規模ソフトウェア論 チームレポート
+
+◼️Other
+- モバイルWifi・通信量 170MB/Day 無駄ING
+- To buy pool brush 108 yen.
+- あらゆる期限過ぎたものを洗濯しよう．
+
 ### 2018/07/21 土曜日
 
 ◼️Done
