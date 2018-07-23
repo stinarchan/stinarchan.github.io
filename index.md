@@ -6,6 +6,24 @@
 - なし
 
 ◼️Doing
+- 大規模ソフトウェア論　team report
+- SC原稿作り
+- 個別ミーティング内容の準備
+
+◼️ToDo
+- To buy pool brush 108 yen.
+- あらゆる期限過ぎたものを洗濯しよう．
+
+◼️Other
+- モバイルWifi・通信量 170MB/Day 無駄ING
+- 有効な睡眠時間を建てたい
+
+### 2018/07/22 日曜日
+
+◼️Done
+- サイゼリヤ　`2,000円`
+
+◼️Doing
 - SC 発表内容方向の明確
 - SC 原稿 JP/EN 6 Pages 7/24 〆切
 
