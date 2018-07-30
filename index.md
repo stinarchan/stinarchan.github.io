@@ -1,4 +1,8 @@
-[Schedule](Schedule.md)    [WeekLog](WeekLog.md) 
+[Home](index.md) 
+
+[Schedule](Schedule.md) 
+
+[WeekLog](WeekLog.md) 
 
 ### 2018/07/29 日曜日
 
