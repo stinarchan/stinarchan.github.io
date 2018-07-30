@@ -1,3 +1,9 @@
+[Home](index.md) 
+
+[Schedule](Schedule.md) 
+
+[WeekLog](WeekLog.md) 
+
 ### 8/13 - 8/19
 - SCPPT修正
 - ICSPIS原稿執筆
