@@ -4,6 +4,8 @@
 
 [WeekLog](WeekLog.md) 
 
+[List](List.md)
+
 ### 2018/08/08 水曜日
 
 ◼️Done
