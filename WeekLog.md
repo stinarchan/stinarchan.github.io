@@ -4,6 +4,8 @@
 
 [WeekLog](WeekLog.md) 
 
+[List](List.md)
+
 ### 8/20 - 8/26
 - SIGSC発表
 ‐ syasan present
