@@ -4,6 +4,8 @@
 
 [WeekLog](WeekLog.md) 
 
+[List](List.md)
+
 - 6/28 1Q 成績発表
 - 7/2 and 7/3 ハンコ日
 - 7/3 個別ミーティング →
