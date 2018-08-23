@@ -6,6 +6,8 @@
 
 [List](List.md)
 
+[Taking](Taking.md)
+
 ### 2018/08/08 水曜日
 
 ◼️Done
