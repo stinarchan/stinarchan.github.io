@@ -6,6 +6,8 @@
 
 [List](List.md)
 
+[Taking](Taking.md)
+
 ### 8/20 - 8/26
 - SIGSC発表
 ‐ syasan present
