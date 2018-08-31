@@ -8,6 +8,8 @@
 
 [Taking](Taking.md)
 
+[Plan](Plan.md)
+
 ### 2018年度
 
 - 6/28 1Q 成績発表
