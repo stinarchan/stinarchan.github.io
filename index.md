@@ -8,6 +8,8 @@
 
 [Taking](Taking.md)
 
+[Plan](Plan.md)
+
 ### 2018/08/31 金曜日
 ■Done
 - 奨学金のお問合せ
