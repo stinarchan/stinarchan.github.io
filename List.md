@@ -8,6 +8,8 @@
 
 [Taking](Taking.md)
 
+[Plan](Plan.md)
+
 ### 2018/9/5 - 9/13(帰国準備リスト)
 
 ■100YEN SHOP
