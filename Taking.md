@@ -8,6 +8,8 @@
 
 [Taking](Taking.md)
 
+[Plan](Plan.md)
+
 ### 帰国
 - 20180905(洛陽)
   - 身份证
