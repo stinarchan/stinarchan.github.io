@@ -39,7 +39,7 @@
 
 に　　ほん　　ご　　　　←　仮　名（か　な　/　ka　　na）
 
-ni　　ho　n　　go　　　←　ロ　ー　マ　字　（ro　－　ma　ji）
+ni　　ho　n　　go　　　←　ロ　`ー`　マ　字　（ro　`－`　ma　ji）
 
 - 请注意 ★★
   - `n`在键盘输入假名时，打做`nn`
