@@ -37,7 +37,7 @@
 
 に　　ほん　　ご
 
-ni   ho n    go
+ni　　ho　n　　go
 
   
 
