@@ -23,24 +23,34 @@
 ni chi   jyo u    yo  u     go
 
 - A: 今天的课就到这里 
--- 今日（きょう）の授業（じゅぎょう）はこれで終わります
--- kyo u no jyu gyo u wa ko re de o wa ri ma su
+
+  - 今日（きょう）の授業（じゅぎょう）はこれで終わります
+  
+  - kyo u no jyu gyo u wa ko re de o wa ri ma su
 
 - A: 大家辛苦了
--- お疲（つか）れ様（さま）でした
--- o tsu ka re sa ma de shi ta
+
+  - お疲（つか）れ様（さま）でした
+  
+  - o tsu ka re sa ma de shi ta
 
 - B: 老师，谢谢
--- 先生（せんせい），ありがとうございます
--- se n se i, a ri ga to u go za i ma su 
+
+  - 先生（せんせい），ありがとうございます
+  
+  - se n se i, a ri ga to u go za i ma su 
 
 - B: 我先走了
--- お先（さき）に失礼（しつれい）します
--- o sa ki ni shi tsu re i shi ma su
+
+  - お先（さき）に失礼（しつれい）します
+
+  - o sa ki ni shi tsu re i shi ma su
 
 - A: 你先请
--- お先（さき）にどうぞ
--- o sa ki ni do u zo
+  
+  - お先（さき）にどうぞ
+
+  - o sa ki ni do u zo
 
 下面我们来学习新的词汇
 
