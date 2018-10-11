@@ -19,7 +19,12 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
+### 12 Oct 2018 Fri
+- Application for leave（
+- ICSPIS PPT（
+
 ### 11 Oct 2018 Thur
+
 ■Lab
 - WDVC PPT (15:00 - 16:00
 - ICSPIS PPT (16:00 - 17:00
