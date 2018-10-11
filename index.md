@@ -12,20 +12,22 @@
 
 [Plan](Plan.md)
 
-### 2018/10/11 木曜日
+### 11 Oct 2018 Thur
 ■Lab
-- WDVC PPT
-- ICSPIS PPT
-- Japanese for Yinor
-- ICSPIS finally paper 10/16 9：00〆切
+- WDVC PPT (15:00 - 16:00
+- ICSPIS PPT (16:00 - 17:00
+- Japanese note for Yinor (17:00 - 18:00
+- ICSPIS finally paper deadline 16 Oct 9:00 (Waiting
+- Go to bathroom (18:00 - 18:30
+- Have a dinner (18:30 - 19:00
 
 ■Home
-- socks washing
-- clothes washing
-- Get my little bed out
+- Socks washing (20:00 - 21:00
+- Clothes washing (21:00 - 22:00
+- Get my little bed out (21:00
 
 ■Other
-
+- TA Sign 15 Oct 2018 10:00 + 1 Oct 2018 Sign (
 
 ### 2018/10/4 木曜日
 ■ToDo
