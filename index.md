@@ -12,6 +12,21 @@
 
 [Plan](Plan.md)
 
+### 2018/10/11 木曜日
+■Lab
+- WDVC PPT
+- ICSPIS PPT
+- Japanese for Yinor
+- ICSPIS finally paper 10/16 9：00〆切
+
+■Home
+- socks washing
+- clothes washing
+- Get my little bed out
+
+■Other
+
+
 ### 2018/10/4 木曜日
 ■ToDo
 - 10/4 木　HPCレポート課題
