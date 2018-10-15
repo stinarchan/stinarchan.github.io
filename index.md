@@ -19,6 +19,10 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
+### 16 Oct 2018 Tue
+■Lab
+- face to face with parents
+
 ### 15 Oct 2018 Mon
 ■Buy
 - Rice cooker shovel（
