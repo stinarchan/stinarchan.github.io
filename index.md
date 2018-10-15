@@ -19,6 +19,25 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
+### 15 Oct 2018 Mon
+■Buy
+- Rice cooker shovel（
+- Cooking shovel（
+- Napkin（
+
+■Lab
+- TA Sign 15 Oct 2018 10:00 + 1 Oct 2018 Sign (
+- WDVC PPT Making + MT（
+- ICSPIS Problem settlement + MT（
+- ICSPIS Chinese Version Making（
+- Check for Service MT Contents（
+
+■Home
+- Calling with Yinor（
+
+■Other
+- Dinner with Wang（
+
 ### 11 Oct 2018 Thur
 ■Buy
 - cushion
