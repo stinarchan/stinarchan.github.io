@@ -27,6 +27,7 @@ Lawson
 
 ■Lab
 - TA Sign 15 Oct 2018 10:00 + 1 Oct 2018 Sign (
+- Quantum computer MT（
 - WDVC PPT Making + MT（
 - ICSPIS Problem settlement + MT（
 - ICSPIS Chinese Version Making（
