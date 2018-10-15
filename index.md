@@ -26,10 +26,10 @@ Lawson
 - Napkin（
 
 ■Lab
-- TA Sign 15 Oct 2018 10:00 + 1 Oct 2018 Sign (
-- Quantum computer MT（
-- WDVC PPT Making + MT（
-- ICSPIS Problem settlement + MT（
+- TA Sign 15 Oct 2018 10:00 + 1 Oct 2018 Sign (〇
+- Quantum computer MT（✕
+- WDVC PPT Making + MT（〇
+- ICSPIS Problem settlement + MT（✕
 - ICSPIS Chinese Version Making（
 - Check for Service MT Contents（
 
