@@ -22,6 +22,7 @@ Lawson
 ### 16 Oct 2018 Tue
 ■Lab
 - face to face with parents
+- take the lunch box go to home
 
 ### 15 Oct 2018 Mon
 ■Buy
