@@ -19,6 +19,13 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
+### 17 Oct 2018 Wed
+■Lab
+- shower（
+
+■Home
+- Mobile phone charging cable（
+
 ### 16 Oct 2018 Tue
 ■Lab
 - face to face with parents
