@@ -19,6 +19,16 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
+- Guide of Dubai and Barcelona（
+
+### 18 Oct 2018 Thur
+■Lab
+- ICSPIS PPT（
+- Japanese for Yinor（
+
+■Home
+- socks washing
+
 ### 17 Oct 2018 Wed
 ■Lab
 - shower（
