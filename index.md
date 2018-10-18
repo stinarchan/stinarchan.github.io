@@ -19,7 +19,9 @@ Lawson
 - 1.1 9.5
 - 2.1 5.5
 
-- Guide of Dubai and Barcelona（
+Guide of Dubai and Barcelona（
+
+Information on study in Japan（
 
 ### 18 Oct 2018 Thur
 ■Lab
