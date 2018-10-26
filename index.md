@@ -23,6 +23,16 @@ Guide of Dubai and Barcelona（
 
 Information on study in Japan（
 
+### 2018/10/26 金曜日
+
+■ToDo
+- 計算生物学　レポート課題（１）
+- WDVC
+  - ユースケース図
+  - スライドの英訳
+- ICSPISスライド　修正
+- 計算生物学　レポート課題（２）
+
 ### 18 Oct 2018 Thur
 ■Lab
 - ICSPIS PPT（
