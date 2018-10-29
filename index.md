@@ -26,7 +26,7 @@ Information on study in Japan（
 ### 2018/10/29 月曜日
 ■Lab
 - ICSPISスライド修正
-- 計算生物学レポート課題
+- 計算生物学レポート課題2
 - 鈕さん実験　10月分の出退勤の最終回
 
 ■Home
