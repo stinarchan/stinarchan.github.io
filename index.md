@@ -38,7 +38,8 @@ Information on study in Japan（
 
 ■Other
 - 海外保険の料金関連＠雪上さん
-
+- ICSPISスライド発表練習
+- バルセロナのスケジュールは？
 
 ### 2018/10/26 金曜日
 
