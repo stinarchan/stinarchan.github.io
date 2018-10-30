@@ -23,11 +23,29 @@ Guide of Dubai and Barcelona（
 
 Information on study in Japan（
 
+### 2018/10/30 火曜日
+■Lab
+- 計算生物学レポート課題2
+- ICSPIS原稿
+- WDVC原稿
+- 诺儿的日本语备课
+- 英語文法書き
+
+■Home
+- 100円ショップ
+  - 自拍杆
+- 服洗濯
+
+■Other
+- Amazon shopping
+- ドバイ金換え
+- バルセロナ金換え
+
 ### 2018/10/29 月曜日
 ■Lab
-- ICSPISスライド修正
+- ICSPISスライド修正　〇
 - 計算生物学レポート課題2
-- 鈕さん実験　10月分の出退勤の最終回
+- 鈕さん実験　10月分の出退勤の最終回　〇
 
 ■Home
 - 100円ショップ
@@ -37,7 +55,7 @@ Information on study in Japan（
 - 英語文法書き
 
 ■Other
-- 海外保険の料金関連＠雪上さん
+- 海外保険の料金関連＠雪上さん　〇
 - ICSPISスライド発表練習
 - バルセロナのスケジュールは？
 
