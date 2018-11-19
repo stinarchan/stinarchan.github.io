@@ -24,7 +24,7 @@ ni chi   jyo u    yo  u     go
 
 - A: 今天的课就到这里 
 
-  - 今日（きょう）の授業（じゅぎょう）はこれで終わります
+  - 今日（きょう）の授業（じゅぎょう）はこれで終（お）わります
   
   - kyo u no jyu gyo u wa ko re de o wa ri ma su
 
