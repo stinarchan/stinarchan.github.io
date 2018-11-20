@@ -25,6 +25,13 @@ Guide of Dubai and Barcelona（
 
 Information on study in Japan（
 
+### 201811202
+
+■ToDo
+- 量子コンピュータPPT作成　11/22〆切
+- cs27.org -> ICSPIS活動報告　編集
+- M1中間報告会のPPT整理・確認
+
 ### 201811191
 
 ■Time
