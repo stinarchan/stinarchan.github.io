@@ -27,16 +27,17 @@ Information on study in Japan（
 
 ### 201811261
 ■Done
-- 航空券確認
+- 航空券　確認
+- 家賃12月分　支払
+- 雇用12月分　変更
 
-■ToDo
+■Doing
 - 発表用原稿　作成
  - 量子コンピュータ
  - M1中間発表
 - honeyの日本語課程
 
-■Doing
-- 
+■ToDo
 
 ■Other
 
