@@ -18,15 +18,29 @@ Lawson
 
 - 11.1 8
 - 12.1 7.5
-- 1.1 9.5
-- 2.1 5.5
+- 1.1 9.5-1.5=8
+- 2.1 5.5+2.5=9
 
 Guide of Dubai and Barcelona（
 
 Information on study in Japan（
 
-### 201811202
+### 201811261
+■Done
+- 航空券確認
 
+■ToDo
+- 発表用原稿　作成
+ - 量子コンピュータ
+ - M1中間発表
+- honeyの日本語課程
+
+■Doing
+- 
+
+■Other
+
+### 201811202
 ■ToDo
 - 量子コンピュータPPT作成　11/22〆切
 - cs27.org -> ICSPIS活動報告　編集
