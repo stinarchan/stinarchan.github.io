@@ -14,16 +14,14 @@
 
 [Note](note.md)
 
+[Rule](rule.md)
+
 Lawson 
 
 - 11.1 8
 - 12.1 7.5
 - 1.1 9.5-1.5=8
 - 2.1 5.5+2.5=9
-
-Guide of Dubai and Barcelona（
-
-Information on study in Japan（
 
 ### 201811261
 ■Done
