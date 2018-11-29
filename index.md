@@ -14,7 +14,7 @@
 
 [Note](note.md)
 
-[Rule](rule.md)
+[Ruler](ruler.md)
 
 Lawson 
 
