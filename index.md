@@ -29,6 +29,10 @@ Lawson
 
 CT 20:00 - 21:00  honey's Toefl lesson
 
+■Done
+- 上原MTの話す原稿
+- 
+
 ### 201811261
 ■Done
 - 航空券　確認
