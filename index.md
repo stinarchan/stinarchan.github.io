@@ -27,10 +27,11 @@ Lawson
 
 ### 201812031
 
-CT 20:00 - 21:00  honey's Toefl lesson
+CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 
 ■Done
 - 上原MTの話す原稿
+- 大学院の各種WebPageの内容確認
 - 
 
 ### 201811261
