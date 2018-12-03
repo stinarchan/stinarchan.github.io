@@ -30,9 +30,9 @@ Lawson
 CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 
 ■Done
-- 上原MTの話す原稿
+- 上原MTの話す原稿書き
 - 大学院の各種WebPageの内容確認
-- 
+- 中村MTのログ原稿書き
 
 ### 201811261
 ■Done
