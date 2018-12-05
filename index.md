@@ -32,7 +32,9 @@ CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 ■Done
 - Kobe-u Webpage確認
 - アンケート済
-- 
+
+■Doing
+- M1中間発表のスライド
 
 ■ToDo
 - お風呂に入ること
