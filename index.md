@@ -35,6 +35,7 @@ CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 
 ■Doing
 - M1中間発表のスライド
+- iphone app store の　app 更新
 
 ■ToDo
 - お風呂に入ること
