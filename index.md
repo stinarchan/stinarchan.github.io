@@ -49,6 +49,7 @@ CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 - 上原研ミーティング話す原稿
 - M1中間発表の発表練習
 - しゃしんけきの予約 
+- made yahoo mail
 
 ■ToDo
 - TOEIC 题　の　USBを　研究室に持ってくる　
