@@ -50,8 +50,12 @@ CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 - M1中間発表の発表練習
 - しゃしんけきの予約 
 - made yahoo mail
+- シャツプリント
 
 ■ToDo
+- 英語の単語覚え
+- 洗澡
+- 准备个人会议内容
 - TOEIC 题　の　USBを　研究室に持ってくる　
 - TOEIC 题　を 百度云　に upload する
 
