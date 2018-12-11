@@ -50,7 +50,6 @@ CT 20:00 - 21:00  honey's Toefl lesson（12/3-12）
 - M1中間発表の発表練習
 
 ■ToDo
-- 写真ケーキの予約
 - TOEIC 题　の　USBを　研究室に持ってくる　
 - TOEIC 题　を 百度云　に upload する
 
