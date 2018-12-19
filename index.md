@@ -44,7 +44,8 @@ Lawson
 ■Done
 - アンケート済
 - 神戸大WEB確認済
-- もとUSBの内容　を　百度云　に　upload　する．
+- もとUSBの内容　を　百度云　に　upload　した．
+- シャさんのジュウマンエンを用意した．
 
 ■ToDo
 - 安装软件的floder里面的那个chensinan.log给前辈.
