@@ -39,6 +39,7 @@ Lawson
 
 ■Done
 - アンケート済
+- 神戸大WEB確認済
 
 ■ToDo
 - 計算生体力学
