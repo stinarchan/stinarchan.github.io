@@ -1,3 +1,23 @@
+[诺子乖](Yi.md)
+
+[Home](index.md) 
+
+[Schedule](Schedule.md) 
+
+[WeekLog](WeekLog.md) 
+
+[List](List.md)
+
+[Taking](Taking.md)
+
+[Plan](Plan.md)
+
+[Note](note.md)
+
+[Ruler](ruler.md)
+
+[UeharaMT](uehara_mt_c.md)
+
 ### 201901082
 
 1/19, 1/20　センター入試 入館禁止
