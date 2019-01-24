@@ -36,6 +36,7 @@ Lawson
 ■Done
 - アンケート済
 - 神戸大Web確認済
+- ビデオ鑑賞（http://www.kobe-u.ac.jp/ch/index.html）
 
 ### 201901233
 
@@ -47,7 +48,6 @@ Lawson
 ■ToDo
 - SC原稿・章構成と第1章
 - 計算生体力学・スライド作成
-- ビデオ鑑賞（http://www.kobe-u.ac.jp/ch/index.html）
 - 川西奨学金申込　2/15〆切
 - 前期授業料免除申請　1/29~2/20〆切
 - 研究・Word2VecのSentences概念と作成法についての調べ事
