@@ -1,4 +1,4 @@
-[诺子乖](Yi.md)
+[Yi](Yi.md)
 
 [Home](index.md) 
 
