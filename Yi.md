@@ -1,5 +1,5 @@
-### 诺子乖
+### Yi
 
-- [关于熊熊](bear.md)
-- [大家的日本语](japanese.md)
+- [About Bear](bear.md)
+- [Japan lesson](japanese.md)
 
