@@ -69,6 +69,7 @@ Lawson
   - 課税証明書の郵送での申請
 - SC原稿
 - SCスライド
+- Gitへの201903SC_DataUpload
 - 航空券・座席選択
 - 研究
 - SNPD原稿
