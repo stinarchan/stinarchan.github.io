@@ -48,6 +48,7 @@ Lawson
 ■Done
 - 鈕さんの博士論文公聴会
 - 神戸大Web確認済
+- Watson Studio上で提供されるDeep Learning as a Serviceのサービスを中村先生より聞いた．
 
 ■ToDo
 - 神戸市留学生奨学金の申請書類を学生課に出す．
