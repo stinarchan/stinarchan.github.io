@@ -29,12 +29,13 @@
 - 神大Web確認済
 - 計算生体力学・スライドを提出
 - 千趣奨学は今年19人卒業者
+- 
 
 ■ToDo
-- SCスライド
+- SCスライド　-> 70%完成
 - 課税証明と川西奨学の返信待ち
 - お風呂に入ること
-- 1000円ディスク返信待ち
+- 1000円ディスク返信待ち -> 晩に連絡
 - sony neural network console
 - watson deep learning
 - azure deep learning
