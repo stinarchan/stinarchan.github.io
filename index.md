@@ -31,6 +31,7 @@
 - watson deep learning → 3＄有料
 - azure deep learning → 調べ結果なし
 - Google Cloud Platform → 支払い先の登録が必要
+- 個別ミーティング内容の準備
 
 ■ToDo
 - SCスライド　-> 71%完成
