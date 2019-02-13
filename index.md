@@ -27,14 +27,14 @@
 ### 201902133
 ■Done
 - 神戸大Web確認済
+- sony neural network console → 結果完了
+- watson deep learning → 3＄有料
 
 ■ToDo
-- SCスライド　-> 70%完成
+- SCスライド　-> 71%完成
 - お風呂に入ること
 - 課税証明と川西奨学の返信待ち
 - 1000円ディスク返信待ち -> 晩に連絡 -> 2/16 15:00以降に連絡
-- sony neural network console
-- watson deep learning
 - azure deep learning
 - 5/3 上海から大阪までの飛行機座席選択はまだです．忘れないように．
 
