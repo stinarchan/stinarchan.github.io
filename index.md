@@ -22,11 +22,32 @@
 
 計算物理化学 3回欠席 -> 2/15　4Q成績発表
 
-2/22の午後～2/25の午後 -> 閉校
-
-もしJS用法が身につければ，博士は大丈夫はず．
-
 ------------------------
+### 201903037
+
+- 06:00 the job over
+- 07:00 arrived in home 
+	- shave
+	- put the clippers back in place
+	- sleep
+- 09:30 wake and get up
+	- go to hair salon
+- 11:00 arrived in lab
+	- take a shower
+	- facetime 
+- 13:00 arrived in home
+	- washing clothes
+	- tidy the room
+- 15:00 meal time
+- 16:00 go for the job
+- 21:45 job over
+- 22:50 arrived in home
+	- washing clothes
+	- continue to tidy the room
+	- throw rubbish
+	- plan for the next day
+- 01:00 sleep
+
 ### 201902251
 
 最近の睡眠時間大混乱
