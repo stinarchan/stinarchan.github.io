@@ -20,22 +20,37 @@
 
 关于onsen UI的学习
 
-計算物理化学 3回欠席 -> 2/15　4Q成績発表
+計算物理化学 3回欠席 -> 3/15　4Q成績発表
 
 ------------------------
+
+### 201903052
+■Done
+- 08:00 breakfast time
+
+■ToDo
+- english learning
+- sc slide
+- snpd paper
+- introduction research
+- open-lab slide
+- 10:00 comfirm the web-page of kobe univ.
+- 11:00 lunch time
+- 18:30 dinner time
+- 19:00 go home
+	- tidy the room
+	- washing clothes
+	- throw rubbish
+- 22:00 sleep
 
 ### 201903041
 ■Done
 - submission of tuition exemption documents
 - take a shower
 - confirm the webpage of kobe univ.
-
-■ToDo
-- write snpd/paper
+- presentation practice
 - 18:30 dinner
 - 19:00 go to buy jr ticket
-- 20:00 tidy the room
-- washing clothes
 
 ### 201903037
 
