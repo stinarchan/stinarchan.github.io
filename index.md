@@ -23,6 +23,13 @@
 計算物理化学 3回欠席 -> 2/15　4Q成績発表
 
 ------------------------
+
+### 201903041
+■Done
+- submission of tuition exemption documents
+- take a shower
+- Confirm the webpage of kobe univ.
+
 ### 201903037
 
 - 06:00 the job over
