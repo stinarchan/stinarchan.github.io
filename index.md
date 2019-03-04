@@ -28,7 +28,14 @@
 ■Done
 - submission of tuition exemption documents
 - take a shower
-- Confirm the webpage of kobe univ.
+- confirm the webpage of kobe univ.
+
+■ToDo
+- write snpd/paper
+- 18:30 dinner
+- 19:00 go to buy jr ticket
+- 20:00 tidy the room
+- washing clothes
 
 ### 201903037
 
