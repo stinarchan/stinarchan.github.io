@@ -29,13 +29,13 @@
 - 08:00 breakfast time
 
 ■ToDo
-- english learning
-- sc slide
-- snpd paper
-- introduction research
-- open-lab slide
-- 10:00 comfirm the web-page of kobe univ.
-- 11:00 lunch time
+- english learning .
+- sc slide .
+- snpd paper .
+- introduction research ,
+- open-lab slide .
+- 10:00 comfirm the web-page of kobe univ .
+- 11:00 lunch time .
 - 18:30 dinner time
 - 19:00 go home
 	- tidy the room
