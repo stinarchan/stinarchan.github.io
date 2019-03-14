@@ -29,6 +29,7 @@
 - SC旅程の調べ
 - 神戸大WEB確認
 - レシート記録・整理
+- azure, watson, clarifai APIのタグ集合抽出．  
 
 ■ToDo
 - SC持ち物の準備
